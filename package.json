@@ -52,7 +52,7 @@
   },
   "dependencies": {
     "@types/node": "^18.11.9",
-    "change-case": "4.1.2",
+    "change-case": "5.4.4",
     "slug": "8.2.3",
     "uuid": "9.0.1",
     "validator": "13.11.0"
